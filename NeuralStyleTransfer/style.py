@@ -16,3 +16,6 @@ def transfer(content_img_path, style_img_path):
   outputs = hub_module(tf.constant(content_img), tf.constant(style_img))
   stylized_image = outputs[0]
   return stylized_image
+if __name__ == "__main__"
+    import sys
+    transfer(sys.argv[1], sys.argv[2])
