@@ -1,0 +1,11 @@
+matplotlib
+tensorflow
+os-win
+ffmpy
+glob2
+pytest-shutil
+pytube
+opencv-python
+pillow
+numpy
+tensorflow_hub
