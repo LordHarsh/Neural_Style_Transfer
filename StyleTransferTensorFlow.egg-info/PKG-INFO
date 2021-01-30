@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: StyleTransferTensorFlow
+Version: 0.1.3
+Summary: Package to apply style transfer on different frames of a video
+Home-page: https://github.com/LordHarsh/Neural_Style_Transfer
+Author: Hash Banka
+Author-email: harshbanka321@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6

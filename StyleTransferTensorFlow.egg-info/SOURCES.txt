@@ -1,0 +1,11 @@
+setup.py
+StyleTransferTensorFlow/__init__.py
+StyleTransferTensorFlow/convert.py
+StyleTransferTensorFlow/extract.py
+StyleTransferTensorFlow/make.py
+StyleTransferTensorFlow/style.py
+StyleTransferTensorFlow.egg-info/PKG-INFO
+StyleTransferTensorFlow.egg-info/SOURCES.txt
+StyleTransferTensorFlow.egg-info/dependency_links.txt
+StyleTransferTensorFlow.egg-info/requires.txt
+StyleTransferTensorFlow.egg-info/top_level.txt
